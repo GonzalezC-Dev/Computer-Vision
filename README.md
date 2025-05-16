@@ -2,7 +2,7 @@
 Authors: Christian Gonzalez, Anthony Manese, Raul Gallardo Trejo
 
 How to run the code:
-Our models was created, tested, and ran in Jupyter Notebooks. Ensure the data path is correct when running on your own machine. Run all cells in Jupyter and it should execute and give the same performance as we got.  
+Our models were created, tested, and ran in Jupyter Notebooks. Ensure the data path is correct when running on your own machine. Run all cells in Jupyter and it should execute and give the same performance as we got.  
   
 Brief explanation of key files and functions:
 
